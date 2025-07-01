@@ -1,0 +1,4 @@
+Flask==3.0.2
+Flask-Cors==4.0.0
+yt-dlp==2023.11.16  # Stable version
+gunicorn==21.2.0
